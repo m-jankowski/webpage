@@ -1,6 +1,7 @@
 ---
 title: Michael Jankowski
 role: Postdoc
+avatar_filename: jankowski2-2-.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
